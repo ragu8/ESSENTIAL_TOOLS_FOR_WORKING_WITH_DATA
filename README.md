@@ -1,2 +1,13 @@
 # ESSENTIAL_TOOLS-_FOR-_WORKING-_WITH-_DATA
-Essential Tools for Working with Data, it is meant to help Python users learn to use Python’s data science stack—libraries such as IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related tools—to effectively store, manipulate, and gain insight from data.
+
+B r i e f C o n t e n t s
+
+Chapter 1: IPython: Beyond Normal python
+
+Chapter 2: Introduction to Numpy
+
+Chapter 3: Data Manipulation with Pandas
+
+Chapter 4: Visualization with Matplotlib
+
+Chapter 5: Introduction to Scikit - Learn
